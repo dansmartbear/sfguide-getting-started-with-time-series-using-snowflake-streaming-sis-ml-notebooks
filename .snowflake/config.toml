@@ -1,5 +1,5 @@
 [connections.hol-timeseries]
-account = "<ACCOUNT_IDENTIFIER>"
+account = "xxpriru-vxb72525"
 user = "USER_HOL_TIMESERIES"
 role = "ROLE_HOL_TIMESERIES"
 database = "HOL_TIMESERIES"
@@ -9,7 +9,7 @@ authenticator = "SNOWFLAKE_JWT"
 private_key_path = "keys/rsa_key.p8"
 
 [connections.hol-timeseries-streamlit]
-account = "<ACCOUNT_IDENTIFIER>"
+account = "xxpriru-vxb72525"
 user = "USER_HOL_TIMESERIES"
 role = "ROLE_HOL_TIMESERIES"
 database = "HOL_TIMESERIES"
